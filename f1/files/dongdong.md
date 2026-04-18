@@ -1,3 +1,3 @@
 ## jeg er 16
-# color [000000]jeg er 67
+<span style="color:red text</span> 16
 
